@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os hábitos.
 
-- [Visite o projeto online] (https://jonlucas33.github.io/Habits-html-css-javaScript-)
+- [Visite o projeto online](https://jonlucas33.github.io/Habits-html-css-javaScript-)
 
 ## 🔖 Layout
 
